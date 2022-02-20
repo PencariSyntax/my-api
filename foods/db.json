@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "category": "Foods",
+        "menus": [
+            {
+                "id": 1,
+                "menu_name": "Ayam Goreng",
+                "menu_desc": "Dibuat dari ayam, yang saya rawat seperti anak sendiri.",
+                "food_stocks": 20,
+                "image": "https://kbu-cdn.com/dk/wp-content/uploads/ayam-goreng-pedas.jpg"
+            },
+            {
+                "id": 2,
+                "menu_name": "Ayam Bakar",
+                "menu_desc": "Dibakar dengan rempah nusantara, cita rasa international dengan bumbu kearifan lokal.",
+                "food_stocks": 20,
+                "image": "https://www.resepistimewa.com/wp-content/uploads/cara-membuat-ayam-bakar-kecap.jpg"
+            },
+            {
+                "id": 3,
+                "menu_name": "Nasi Bakar",
+                "menu_desc": "Dibuat dari ayam, yang saya rawat seperti anak sendiri.",
+                "food_stocks": 20,
+                "image": "https://img.inews.co.id/files/inews_new/2020/08/28/resep_nasi_bakar_cumi_sambalado.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Drinks & Beverages",
+        "menus": [
+            {
+                "id": 1,
+                "menu_name": "Teh Manis",
+                "menu_desc": "Rebusan daun teh pilihan ditambah takaran gula yang pas.",
+                "food_stocks": 20,
+                "image": "https://asset-a.grid.id/crop/0x0:0x0/945x630/photo/2020/10/13/1521986007.jpg"
+            },
+            {
+                "id": 2,
+                "menu_name": "Jus Jeruk",
+                "menu_desc": "Kesegaran dari jeruk hasil tanam sendiri.",
+                "food_stocks": 20,
+                "image": "https://asset.kompas.com/crops/frbIqpjMicE5qR4jWADmOaXiaXE=/53x0:638x390/750x500/data/photo/2015/07/02/1944166shutterstock-244609825780x390.jpg"
+            },
+            {
+                "id": 3,
+                "menu_name": "Air Putih",
+                "menu_desc": "Bekerja sama dengan mitra terbaik, untuk mendapatkan mata air yang baik untuk dikonsumsi.",
+                "food_stocks": 20,
+                "image": "https://asset.kompas.com/crops/Yhdgc33br_XoT6WEhECYIaVCMLQ=/6x108:806x642/750x500/data/photo/2021/12/14/61b88f1401890.jpg"
+            }
+        ]
+    }
+]
