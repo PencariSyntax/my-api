@@ -6,16 +6,16 @@
                 "id": 1,
                 "menu_name": "Ayam Goreng",
                 "food_stocks": 20,
-                "price": 27000,
-                "discount": 7000,
+                "price": 23000,
+                "discount": 3000,
                 "image": "https://kbu-cdn.com/dk/wp-content/uploads/ayam-goreng-pedas.jpg"
             },
             {
                 "id": 2,
                 "menu_name": "Jus Jeruk",
                 "food_stocks": 20,
-                "price": 27000,
-                "discount": 7000,
+                "price": 23000,
+                "discount": 3000,
                 "image": "https://www.resepistimewa.com/wp-content/uploads/cara-membuat-ayam-bakar-kecap.jpg"
             }
         ]
